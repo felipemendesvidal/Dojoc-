@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.exe
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.dll
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\bin\Debug\netcoreapp3.1\coding dojo.pdb
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.dll
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.pdb
+C:\Users\Phellipe\Desktop\senai\c#\coding dojo\obj\Debug\netcoreapp3.1\coding dojo.genruntimeconfig.cache
